@@ -201,3 +201,23 @@ This repository is part of the **Justice OS** open-source ecosystem — 32 inter
 | [justice-dev-starter-kit](https://github.com/dougdevitre/justice-dev-starter-kit) | Ultimate boilerplate for justice tech builders |
 
 > Built with purpose. Open by design. Justice for all.
+
+
+---
+
+### ⚠️ Disclaimer
+
+This project is provided for **informational and educational purposes only** and does **not** constitute legal advice, legal representation, or an attorney-client relationship. No warranty is made regarding accuracy, completeness, or fitness for any particular legal matter. **Always consult a licensed attorney** in your jurisdiction before making legal decisions. Use of this software does not create any professional-client relationship.
+
+---
+
+### Built by Doug Devitre
+
+I build AI-powered platforms that solve real problems. I also speak about it.
+
+**[CoTrackPro](https://cotrackpro.com)** · admin@cotrackpro.com
+
+→ **Hire me:** AI platform development · Strategic consulting · Keynote speaking
+
+> *AWS AI/Cloud/Dev Certified · UX Certified (NNg) · Certified Speaking Professional (NSA)*
+> *Author of Screen to Screen Selling (McGraw Hill) · 100,000+ professionals trained*

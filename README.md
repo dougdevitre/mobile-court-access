@@ -138,31 +138,52 @@ function CourtFilingForm() {
 
 ## Justice OS Ecosystem
 
-This repository is part of the **Justice OS** open-source ecosystem — 12 interconnected projects building the infrastructure for accessible justice technology.
+This repository is part of the **Justice OS** open-source ecosystem — 22 interconnected projects building the infrastructure for accessible justice technology.
 
+### Core System Layer
 | Repository | Description |
 |-----------|-------------|
 | [justice-os](https://github.com/dougdevitre/justice-os) | Core modular platform — the foundation |
+| [justice-api-gateway](https://github.com/dougdevitre/justice-api-gateway) | Interoperability layer for courts |
+| [legal-identity-layer](https://github.com/dougdevitre/legal-identity-layer) | Universal legal identity and auth |
+
+### User Experience Layer
+| Repository | Description |
+|-----------|-------------|
+| [justice-navigator](https://github.com/dougdevitre/justice-navigator) | Google Maps for legal problems |
 | [mobile-court-access](https://github.com/dougdevitre/mobile-court-access) | Mobile-first court access kit |
-| [vetted-legal-ai](https://github.com/dougdevitre/vetted-legal-ai) | RAG engine with citation validation |
-| [court-doc-engine](https://github.com/dougdevitre/court-doc-engine) | TurboTax for legal filings |
 | [cognitive-load-ui](https://github.com/dougdevitre/cognitive-load-ui) | Design system for stressed users |
 | [multilingual-justice](https://github.com/dougdevitre/multilingual-justice) | Real-time legal translation |
-| [justice-api-gateway](https://github.com/dougdevitre/justice-api-gateway) | Interoperability layer for courts |
+
+### AI + Intelligence Layer
+| Repository | Description |
+|-----------|-------------|
+| [vetted-legal-ai](https://github.com/dougdevitre/vetted-legal-ai) | RAG engine with citation validation |
+| [justice-knowledge-graph](https://github.com/dougdevitre/justice-knowledge-graph) | Open data layer for laws and procedures |
+| [legal-ai-guardrails](https://github.com/dougdevitre/legal-ai-guardrails) | AI safety SDK for justice use |
+
+### Infrastructure + Trust Layer
+| Repository | Description |
+|-----------|-------------|
+| [evidence-vault](https://github.com/dougdevitre/evidence-vault) | Privacy-first secure evidence storage |
+| [court-notification-engine](https://github.com/dougdevitre/court-notification-engine) | Smart deadline and hearing alerts |
 | [justice-analytics](https://github.com/dougdevitre/justice-analytics) | Bias detection and disparity dashboards |
 | [evidence-timeline](https://github.com/dougdevitre/evidence-timeline) | Evidence timeline builder |
-| [digital-literacy-sim](https://github.com/dougdevitre/digital-literacy-sim) | Digital literacy simulator |
+
+### Tools + Automation Layer
+| Repository | Description |
+|-----------|-------------|
+| [court-doc-engine](https://github.com/dougdevitre/court-doc-engine) | TurboTax for legal filings |
+| [justice-workflow-engine](https://github.com/dougdevitre/justice-workflow-engine) | Zapier for legal processes |
 | [pro-se-toolkit](https://github.com/dougdevitre/pro-se-toolkit) | Self-represented litigant tools |
+| [justice-score-engine](https://github.com/dougdevitre/justice-score-engine) | Access-to-justice measurement |
+
+### Adoption Layer
+| Repository | Description |
+|-----------|-------------|
+| [digital-literacy-sim](https://github.com/dougdevitre/digital-literacy-sim) | Digital literacy simulator |
+| [legal-resource-discovery](https://github.com/dougdevitre/legal-resource-discovery) | Find the right help instantly |
+| [court-simulation-sandbox](https://github.com/dougdevitre/court-simulation-sandbox) | Practice before the real thing |
 | [justice-components](https://github.com/dougdevitre/justice-components) | Reusable component library |
 
 > Built with purpose. Open by design. Justice for all.
-
----
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-
-MIT — see [LICENSE](LICENSE).

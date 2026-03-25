@@ -138,7 +138,7 @@ function CourtFilingForm() {
 
 ## Justice OS Ecosystem
 
-This repository is part of the **Justice OS** open-source ecosystem — 22 interconnected projects building the infrastructure for accessible justice technology.
+This repository is part of the **Justice OS** open-source ecosystem — 32 interconnected projects building the infrastructure for accessible justice technology.
 
 ### Core System Layer
 | Repository | Description |
@@ -146,6 +146,8 @@ This repository is part of the **Justice OS** open-source ecosystem — 22 inter
 | [justice-os](https://github.com/dougdevitre/justice-os) | Core modular platform — the foundation |
 | [justice-api-gateway](https://github.com/dougdevitre/justice-api-gateway) | Interoperability layer for courts |
 | [legal-identity-layer](https://github.com/dougdevitre/legal-identity-layer) | Universal legal identity and auth |
+| [case-continuity-engine](https://github.com/dougdevitre/case-continuity-engine) | Never lose case history across systems |
+| [offline-justice-sync](https://github.com/dougdevitre/offline-justice-sync) | Works without internet — local-first sync |
 
 ### User Experience Layer
 | Repository | Description |
@@ -154,6 +156,8 @@ This repository is part of the **Justice OS** open-source ecosystem — 22 inter
 | [mobile-court-access](https://github.com/dougdevitre/mobile-court-access) | Mobile-first court access kit |
 | [cognitive-load-ui](https://github.com/dougdevitre/cognitive-load-ui) | Design system for stressed users |
 | [multilingual-justice](https://github.com/dougdevitre/multilingual-justice) | Real-time legal translation |
+| [voice-legal-interface](https://github.com/dougdevitre/voice-legal-interface) | Justice without reading or typing |
+| [legal-plain-language](https://github.com/dougdevitre/legal-plain-language) | Turn legalese into human language |
 
 ### AI + Intelligence Layer
 | Repository | Description |
@@ -161,6 +165,8 @@ This repository is part of the **Justice OS** open-source ecosystem — 22 inter
 | [vetted-legal-ai](https://github.com/dougdevitre/vetted-legal-ai) | RAG engine with citation validation |
 | [justice-knowledge-graph](https://github.com/dougdevitre/justice-knowledge-graph) | Open data layer for laws and procedures |
 | [legal-ai-guardrails](https://github.com/dougdevitre/legal-ai-guardrails) | AI safety SDK for justice use |
+| [emotional-intelligence-ai](https://github.com/dougdevitre/emotional-intelligence-ai) | Reduce conflict, improve outcomes |
+| [ai-reasoning-engine](https://github.com/dougdevitre/ai-reasoning-engine) | Show your work for AI decisions |
 
 ### Infrastructure + Trust Layer
 | Repository | Description |
@@ -177,6 +183,13 @@ This repository is part of the **Justice OS** open-source ecosystem — 22 inter
 | [justice-workflow-engine](https://github.com/dougdevitre/justice-workflow-engine) | Zapier for legal processes |
 | [pro-se-toolkit](https://github.com/dougdevitre/pro-se-toolkit) | Self-represented litigant tools |
 | [justice-score-engine](https://github.com/dougdevitre/justice-score-engine) | Access-to-justice measurement |
+| [justice-app-generator](https://github.com/dougdevitre/justice-app-generator) | No-code builder for justice tools |
+
+### Quality + Testing Layer
+| Repository | Description |
+|-----------|-------------|
+| [justice-persona-simulator](https://github.com/dougdevitre/justice-persona-simulator) | Test products against real human realities |
+| [justice-experiment-lab](https://github.com/dougdevitre/justice-experiment-lab) | A/B testing for justice outcomes |
 
 ### Adoption Layer
 | Repository | Description |
@@ -185,5 +198,6 @@ This repository is part of the **Justice OS** open-source ecosystem — 22 inter
 | [legal-resource-discovery](https://github.com/dougdevitre/legal-resource-discovery) | Find the right help instantly |
 | [court-simulation-sandbox](https://github.com/dougdevitre/court-simulation-sandbox) | Practice before the real thing |
 | [justice-components](https://github.com/dougdevitre/justice-components) | Reusable component library |
+| [justice-dev-starter-kit](https://github.com/dougdevitre/justice-dev-starter-kit) | Ultimate boilerplate for justice tech builders |
 
 > Built with purpose. Open by design. Justice for all.
